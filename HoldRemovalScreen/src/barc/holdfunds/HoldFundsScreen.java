@@ -35,7 +35,7 @@ public class HoldFundsScreen extends javax.swing.JFrame {
 		jLabel1 = new javax.swing.JLabel();
 		jTabbedPane1 = new javax.swing.JTabbedPane();
 		jPanel1 = new javax.swing.JPanel();
-		jLabel2 = new javax.swing.JLabel();
+		jLabel2 = new javax.swing.JLabel()
 		jLabel3 = new javax.swing.JLabel();
 		jLabel4 = new javax.swing.JLabel();
 		jLabel5 = new javax.swing.JLabel();
